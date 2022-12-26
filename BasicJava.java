@@ -4,7 +4,7 @@ public class BasicJava {
 
     public static void main(String[] args) {
 
-        // Creates a reader instance which takes
+        // Creates a reader instance which takes some random chnges
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter a number: ");
